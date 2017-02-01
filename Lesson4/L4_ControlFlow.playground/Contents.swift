@@ -27,6 +27,7 @@ var sum = 0
 for value in intArray {
     sum += value
 }
+
 sum
 //: ### Example 3: Fast enumeration with Dictionaries!
 var movieDict = ["Star Wars": "George Lucas", "Point Break": "Kathryn Bigelow", "When Harry Met Sally": "Rob Reiner", "The Dark Knight": "Christopher Nolan"]
